@@ -75,41 +75,11 @@
       "complete": true
     },
     {
-      "fName": "Ahti",
-      "sName": "Korhonen",
-      "title": "Tekn.yo",
-      "details": "weqwegafg",
-      "complete": true,
-      "id": 5233
-    },
-    {
-      "fName": "Ville",
-      "sName": "Ahokas",
-      "title": "Tekn.yo",
-      "details": "ykskask",
-      "complete": true,
-      "id": 5234
-    },
-    {
-      "fName": "Roni",
-      "sName": "Lahti",
-      "title": "Takn.kand",
-      "details": "asdfasdf",
-      "id": 5235
-    },
-    {
       "fName": "ASD",
       "sName": "ASDSDA",
       "title": "as",
       "details": "asd",
       "id": 5236
-    },
-    {
-      "fName": "Elias",
-      "sName": "Örma",
-      "title": "Tekn.kand",
-      "details": "asdfasdf",
-      "id": 5237
     },
     {
       "fName": "Matti",
